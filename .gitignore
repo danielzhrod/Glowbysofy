@@ -1,0 +1,9 @@
+# Copias de seguridad locales — no deben ir al repositorio
+index-editable.*.html
+*.backup.html
+
+# Carpeta de andamiaje de Claude Code
+.claude/
+
+# Fotos originales (ya embebidas en el HTML en base64)
+Fotos y videos glowby.sofy/
